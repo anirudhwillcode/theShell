@@ -1,9 +1,9 @@
 ---
 title: "Building a Blog with Markdown"
-date: "2024.03.19"
+date: "2025.11.20"
 category: "TECH"
 excerpt: "How I built a markdown-based blog system that's simple, powerful, and infinitely scalable."
-readTime: "5 cycles"
+readTime: "Anirudh R"
 ---
 
 # Building a Blog with Markdown

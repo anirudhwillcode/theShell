@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/anirudh/github.com/anirudhwillcode/theShell/app/layout\":[\"static/media/111c93f1bc244164-s.p.woff2\",\"static/media/828e2958d60bafae-s.p.woff2\",\"static/media/bb3ef058b751a6ad-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

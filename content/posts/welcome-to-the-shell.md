@@ -3,7 +3,7 @@ title: "Welcome to theShell"
 date: "2024.03.20"
 category: "WELCOME"
 excerpt: "An introduction to my digital corner of the internet where memories live in code."
-readTime: "3 cycles"
+readTime: "Anirudh R"
 ---
 
 # Welcome to theShell
