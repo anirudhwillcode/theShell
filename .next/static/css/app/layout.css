@@ -752,9 +752,6 @@
     --tw-outline-style: none;
     outline-style: none;
   }
-  .running {
-    animation-play-state: running;
-  }
   .group-hover\:text-green-300 {
     &:is(:where(.group):hover *) {
       @media (hover: hover) {

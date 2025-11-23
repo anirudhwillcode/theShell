@@ -6,13 +6,18 @@ excerpt: "An introduction to my digital corner of the internet where memories li
 readTime: "Anirudh R"
 ---
 
-`Why Depth Matters`
+# `Why Depth Matters`
+
 
 In this blog I wanted to explore the idea of depth. Depth is defined as going so deep into one area that you understand it BETTER THAN 99% of people. When you have depth in something, you don't just know "what" happens — you know why, how, and what if not. It is crucial in anybody's professional life and can be implemented in their professional career too.
 
 I want to take an example of a person named **Linus Torvalds**, the creator of the **Linux kernel**. We will see how depth made him one of the most influential and impactful engineers the world has ever seen.
 
-`Linus Torvalds - The Legend`
+# `Linus Torvalds - The Legend`
+
+<p align="center">
+  <img src="https://media.newyorker.com/photos/5ba177da9eb2f7420aadeb98/master/w_2560%2Cc_limit/Cohen-Linus-Torvalds.jpg" width="700">
+</p>
 
 Linus Torvalds, born on December 28, 1969, in Helsinki, Finland, is the mastermind behind the Linux operating system.
 
@@ -23,7 +28,7 @@ However, he wasn’t impressed with the operating system it came with—MS-DOS. 
 That personal project would eventually become Linux, one of the most influential technologies in modern computing.
 
 
-`Linux - Open Source Operating System`
+# `Linux - Open Source Operating System`
 
 Linux is an operating system—just like Windows or macOS—but it's free, open source, and extremely powerful. It was created by Linus Torvalds in 1991.
 
@@ -39,7 +44,7 @@ Linux is an operating system—just like Windows or macOS—but it's free, open 
 
 - Used everywhere → 90% of cloud servers and almost all cybersecurity tools run on Linux.
 
-### `The Impact`
+# `The Impact`
 
 Let's understand what open source is first. Just like a cooking recipe that anyone can read, use, change, or improve, open-source software is made with code that anyone can see, use freely, modify, and share. Google, Amazon, Microsoft, and many others are not open source—they make money from customers and keep their code private.
 
@@ -60,9 +65,9 @@ Linux currently powers:
 
 Linux is probably the **most used OS kernel ever created**.
 
+-----------------------------------------------------------------------------------------------------
 
 
----
 **SCENARIO 1: If Linux Charged for Server Licenses**
 
 Approx. Linux servers worldwide: **35 million** (conservative)
@@ -79,9 +84,9 @@ If Linus owned **10% equity** (typical after dilution):
 10% of $17.5B = $1.75 billion
 ```
 
----
 
 
+-----------------------------------------------------------------------------------------------------
 
 
 
@@ -100,8 +105,8 @@ If $5/device → **$17.5 billion**
 
 Samsung alone sells 250M phones/year → potential **$250M/year** royalty.
 
----
 
+-----------------------------------------------------------------------------------------------------
 
 
 
@@ -117,9 +122,9 @@ If each paid **$0.20 license**:
 
 If $1/device → **$25 billion**
 
----
 
 
+-----------------------------------------------------------------------------------------------------
 
 
 
@@ -137,9 +142,9 @@ If Linux licensing cost was similar to Windows Server on cloud:
 
 Over 10 years → **$20 billion**
 
----
 
 
+-----------------------------------------------------------------------------------------------------
 
 
 
@@ -159,15 +164,15 @@ If he somehow kept **50%** equity:
 50% of $80B ≈ $40 billion
 ```
 
----
+
 
 **Linus Torvalds’ hypothetical net worth if Linux were closed-source:**
 **$8 billion to $40+ billion**
 (Comparable to founders of Adobe, Zoom, or Spotify.)
 
+-----------------------------------------------------------------------------------------------------
 
-
-`The Importance of Depth`
+# `The Importance of Depth`
 
 Now, let us return to the central idea of this blog: **depth**.
 
@@ -175,7 +180,7 @@ When we look at the life and work of Linus Torvalds, one truth becomes very clea
 
 Depth is not about talent. It is about choosing a narrow domain and exploring it with absolute focus, patience, and curiosity until you reach a point where very few people can match your understanding. Depth creates clarity that others do not have. It gives you the ability to solve problems that look impossible to everyone else.
 
-`How Linus Demonstrated Depth`
+# `How Linus Demonstrated Depth`
 
 Linus did not set out to build a global operating system. He simply wanted to understand how systems work at the deepest level. Instead of settling for “using” an OS, he wanted to know:
 
@@ -188,7 +193,7 @@ This desire to understand *beneath the surface* is what guided him.
 
 Most people learn enough to use a computer. Some learn enough to configure it. Very few learn how to build the fundamental layers of it. Linus chose the last path — and that depth allowed him to create something that billions rely on today.
 
-`Why Depth Creates Impact`
+# `Why Depth Creates Impact`
 
 Depth multiplies impact because:
 
@@ -206,7 +211,7 @@ Depth multiplies impact because:
 
 Linus built Linux because depth gave him the confidence to attempt something most people would never dare.
 
-`Why Linus Did Not Become a Billionaire — and Why That Is the Point`
+# `Why Linus Did Not Become a Billionaire `
 
 We just calculated that Linus *could* have been worth **$8–40 billion** if Linux were closed-source.
 But he still chose to open it to the world.
@@ -223,7 +228,7 @@ Depth naturally shifts your mindset:
 
 The world rarely remembers people who chased money. But it always remembers those who chased depth.
 
-`What You Can Learn From This`
+# `What You Can Learn From This`
 
 You do not need to be a genius.
 You do not need ten different skills.
@@ -253,7 +258,7 @@ Depth builds opportunities.
 Depth builds confidence.
 And eventually — depth builds wealth, whether or not that was the original goal.
 
-`Conclusion: Depth Is Your Advantage`
+# `Conclusion: Depth Is Your Advantage`
 
 Linus Torvalds changed the world not by learning everything, but by mastering one thing.
 
