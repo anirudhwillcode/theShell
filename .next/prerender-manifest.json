@@ -1,1 +1,11 @@
-{"version":4,"routes":{"/blog/depthmatters":{},"/blog/building-with-markdown":{},"/blog/welcome-to-the-shell":{}},"dynamicRoutes":{"/blog/[slug]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/blog/[slug]","routeRegex":"^\\/blog\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"3db448a4f0d02c751d3747678c86c89f","previewModeSigningKey":"75b5d34bb1a03472e7d42f73ad918367769ad35c9ef116f940ffe2cfc35826bf","previewModeEncryptionKey":"c16c4b81ece931ea4cb9b0fe3e2eada279fa4956293dc0679d6c5a3f9e304262"}}
+{
+  "version": 4,
+  "routes": {},
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "647c33b7e8ee05ef4d5a400625bc008f",
+    "previewModeSigningKey": "79a4e485970f6f888d057eeae7c01c554001176653fab1f01d1c0f263fe375f0",
+    "previewModeEncryptionKey": "92663d8735af49b201ef24f08d4436181ae59fbbf360a4a6ade60ebc59e59e1c"
+  }
+}
